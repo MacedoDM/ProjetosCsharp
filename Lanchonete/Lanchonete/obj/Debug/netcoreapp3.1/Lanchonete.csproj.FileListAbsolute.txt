@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\bin\Debug\netcoreapp3.1\Lanchonete.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\bin\Debug\netcoreapp3.1\Lanchonete.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\bin\Debug\netcoreapp3.1\Lanchonete.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\bin\Debug\netcoreapp3.1\Lanchonete.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\bin\Debug\netcoreapp3.1\Lanchonete.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\bin\Debug\netcoreapp3.1\Lanchonete.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\obj\Debug\netcoreapp3.1\Lanchonete.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\obj\Debug\netcoreapp3.1\Lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\obj\Debug\netcoreapp3.1\Lanchonete.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\obj\Debug\netcoreapp3.1\Lanchonete.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\obj\Debug\netcoreapp3.1\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\obj\Debug\netcoreapp3.1\Lanchonete.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\obj\Debug\netcoreapp3.1\Lanchonete.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\obj\Debug\netcoreapp3.1\Lanchonete.genruntimeconfig.cache

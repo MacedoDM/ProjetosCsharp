@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\bin\Debug\netcoreapp3.1\NumerosEmIntervalo.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\bin\Debug\netcoreapp3.1\NumerosEmIntervalo.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\bin\Debug\netcoreapp3.1\NumerosEmIntervalo.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\bin\Debug\netcoreapp3.1\NumerosEmIntervalo.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\bin\Debug\netcoreapp3.1\NumerosEmIntervalo.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\bin\Debug\netcoreapp3.1\NumerosEmIntervalo.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\obj\Debug\netcoreapp3.1\NumerosEmIntervalo.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\obj\Debug\netcoreapp3.1\NumerosEmIntervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\obj\Debug\netcoreapp3.1\NumerosEmIntervalo.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\obj\Debug\netcoreapp3.1\NumerosEmIntervalo.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\obj\Debug\netcoreapp3.1\NumerosEmIntervalo.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\obj\Debug\netcoreapp3.1\NumerosEmIntervalo.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\obj\Debug\netcoreapp3.1\NumerosEmIntervalo.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosEmIntervalo\NumerosEmIntervalo\obj\Debug\netcoreapp3.1\NumerosEmIntervalo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\bin\Debug\netcoreapp3.1\Esfera2.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\bin\Debug\netcoreapp3.1\Esfera2.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\bin\Debug\netcoreapp3.1\Esfera2.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\bin\Debug\netcoreapp3.1\Esfera2.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\bin\Debug\netcoreapp3.1\Esfera2.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\bin\Debug\netcoreapp3.1\Esfera2.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\obj\Debug\netcoreapp3.1\Esfera2.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\obj\Debug\netcoreapp3.1\Esfera2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\obj\Debug\netcoreapp3.1\Esfera2.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\obj\Debug\netcoreapp3.1\Esfera2.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\obj\Debug\netcoreapp3.1\Esfera2.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\obj\Debug\netcoreapp3.1\Esfera2.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\obj\Debug\netcoreapp3.1\Esfera2.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Esfera2\Esfera2\obj\Debug\netcoreapp3.1\Esfera2.genruntimeconfig.cache

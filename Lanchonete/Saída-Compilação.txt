@@ -1,0 +1,4 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: Lanchonete, Configuração: Debug Any CPU ------
+1>Lanchonete -> C:\Users\MARCOS\source\repos\Projetos de Csharp\Lanchonete\Lanchonete\bin\Debug\netcoreapp3.1\Lanchonete.dll
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========

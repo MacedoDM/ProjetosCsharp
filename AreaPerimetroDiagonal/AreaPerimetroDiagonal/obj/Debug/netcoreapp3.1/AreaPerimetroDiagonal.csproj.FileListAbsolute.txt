@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\bin\Debug\netcoreapp3.1\AreaPerimetroDiagonal.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\bin\Debug\netcoreapp3.1\AreaPerimetroDiagonal.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\bin\Debug\netcoreapp3.1\AreaPerimetroDiagonal.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\bin\Debug\netcoreapp3.1\AreaPerimetroDiagonal.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\bin\Debug\netcoreapp3.1\AreaPerimetroDiagonal.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\bin\Debug\netcoreapp3.1\AreaPerimetroDiagonal.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\obj\Debug\netcoreapp3.1\AreaPerimetroDiagonal.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\obj\Debug\netcoreapp3.1\AreaPerimetroDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\obj\Debug\netcoreapp3.1\AreaPerimetroDiagonal.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\obj\Debug\netcoreapp3.1\AreaPerimetroDiagonal.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\obj\Debug\netcoreapp3.1\AreaPerimetroDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\obj\Debug\netcoreapp3.1\AreaPerimetroDiagonal.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\obj\Debug\netcoreapp3.1\AreaPerimetroDiagonal.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaPerimetroDiagonal\AreaPerimetroDiagonal\obj\Debug\netcoreapp3.1\AreaPerimetroDiagonal.genruntimeconfig.cache

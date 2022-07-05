@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\bin\Debug\netcoreapp3.1\CalculoDeSalario.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\bin\Debug\netcoreapp3.1\CalculoDeSalario.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\bin\Debug\netcoreapp3.1\CalculoDeSalario.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\bin\Debug\netcoreapp3.1\CalculoDeSalario.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\bin\Debug\netcoreapp3.1\CalculoDeSalario.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\bin\Debug\netcoreapp3.1\CalculoDeSalario.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\obj\Debug\netcoreapp3.1\CalculoDeSalario.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\obj\Debug\netcoreapp3.1\CalculoDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\obj\Debug\netcoreapp3.1\CalculoDeSalario.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\obj\Debug\netcoreapp3.1\CalculoDeSalario.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\obj\Debug\netcoreapp3.1\CalculoDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\obj\Debug\netcoreapp3.1\CalculoDeSalario.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\obj\Debug\netcoreapp3.1\CalculoDeSalario.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeSalario\CalculoDeSalario\obj\Debug\netcoreapp3.1\CalculoDeSalario.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\bin\Debug\netcoreapp3.1\RaizQuadrada.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\bin\Debug\netcoreapp3.1\RaizQuadrada.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\bin\Debug\netcoreapp3.1\RaizQuadrada.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\bin\Debug\netcoreapp3.1\RaizQuadrada.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\bin\Debug\netcoreapp3.1\RaizQuadrada.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\bin\Debug\netcoreapp3.1\RaizQuadrada.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\obj\Debug\netcoreapp3.1\RaizQuadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\obj\Debug\netcoreapp3.1\RaizQuadrada.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\obj\Debug\netcoreapp3.1\RaizQuadrada.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\obj\Debug\netcoreapp3.1\RaizQuadrada.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\obj\Debug\netcoreapp3.1\RaizQuadrada.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\obj\Debug\netcoreapp3.1\RaizQuadrada.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\obj\Debug\netcoreapp3.1\RaizQuadrada.genruntimeconfig.cache

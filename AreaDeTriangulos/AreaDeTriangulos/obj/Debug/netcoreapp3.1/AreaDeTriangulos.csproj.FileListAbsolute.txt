@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\bin\Debug\netcoreapp3.1\AreaDeTriangulos.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\bin\Debug\netcoreapp3.1\AreaDeTriangulos.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\bin\Debug\netcoreapp3.1\AreaDeTriangulos.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\bin\Debug\netcoreapp3.1\AreaDeTriangulos.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\bin\Debug\netcoreapp3.1\AreaDeTriangulos.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\bin\Debug\netcoreapp3.1\AreaDeTriangulos.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\obj\Debug\netcoreapp3.1\AreaDeTriangulos.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\obj\Debug\netcoreapp3.1\AreaDeTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\obj\Debug\netcoreapp3.1\AreaDeTriangulos.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\obj\Debug\netcoreapp3.1\AreaDeTriangulos.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\obj\Debug\netcoreapp3.1\AreaDeTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\obj\Debug\netcoreapp3.1\AreaDeTriangulos.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\obj\Debug\netcoreapp3.1\AreaDeTriangulos.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\AreaDeTriangulos\AreaDeTriangulos\obj\Debug\netcoreapp3.1\AreaDeTriangulos.genruntimeconfig.cache

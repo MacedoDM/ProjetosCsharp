@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\bin\Debug\netcoreapp3.1\CalculoDePotencia.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\bin\Debug\netcoreapp3.1\CalculoDePotencia.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\bin\Debug\netcoreapp3.1\CalculoDePotencia.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\bin\Debug\netcoreapp3.1\CalculoDePotencia.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\bin\Debug\netcoreapp3.1\CalculoDePotencia.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\bin\Debug\netcoreapp3.1\CalculoDePotencia.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\obj\Debug\netcoreapp3.1\CalculoDePotencia.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\obj\Debug\netcoreapp3.1\CalculoDePotencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\obj\Debug\netcoreapp3.1\CalculoDePotencia.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\obj\Debug\netcoreapp3.1\CalculoDePotencia.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\obj\Debug\netcoreapp3.1\CalculoDePotencia.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\obj\Debug\netcoreapp3.1\CalculoDePotencia.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\obj\Debug\netcoreapp3.1\CalculoDePotencia.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDePotencia\CalculoDePotencia\obj\Debug\netcoreapp3.1\CalculoDePotencia.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\bin\Debug\netcoreapp3.1\NotaDeSemestre.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\bin\Debug\netcoreapp3.1\NotaDeSemestre.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\bin\Debug\netcoreapp3.1\NotaDeSemestre.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\bin\Debug\netcoreapp3.1\NotaDeSemestre.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\bin\Debug\netcoreapp3.1\NotaDeSemestre.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\bin\Debug\netcoreapp3.1\NotaDeSemestre.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\obj\Debug\netcoreapp3.1\NotaDeSemestre.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\obj\Debug\netcoreapp3.1\NotaDeSemestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\obj\Debug\netcoreapp3.1\NotaDeSemestre.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\obj\Debug\netcoreapp3.1\NotaDeSemestre.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\obj\Debug\netcoreapp3.1\NotaDeSemestre.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\obj\Debug\netcoreapp3.1\NotaDeSemestre.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\obj\Debug\netcoreapp3.1\NotaDeSemestre.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NotaDeSemestre\NotaDeSemestre\obj\Debug\netcoreapp3.1\NotaDeSemestre.genruntimeconfig.cache

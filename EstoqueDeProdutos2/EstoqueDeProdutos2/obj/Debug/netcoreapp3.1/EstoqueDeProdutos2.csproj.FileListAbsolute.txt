@@ -1,0 +1,13 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\EstoqueDeProdutos2\EstoqueDeProdutos2\bin\Debug\netcoreapp3.1\EstoqueDeProdutos2.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\EstoqueDeProdutos2\EstoqueDeProdutos2\bin\Debug\netcoreapp3.1\EstoqueDeProdutos2.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\EstoqueDeProdutos2\EstoqueDeProdutos2\bin\Debug\netcoreapp3.1\EstoqueDeProdutos2.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\EstoqueDeProdutos2\EstoqueDeProdutos2\bin\Debug\netcoreapp3.1\EstoqueDeProdutos2.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\EstoqueDeProdutos2\EstoqueDeProdutos2\bin\Debug\netcoreapp3.1\EstoqueDeProdutos2.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\EstoqueDeProdutos2\EstoqueDeProdutos2\bin\Debug\netcoreapp3.1\EstoqueDeProdutos2.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\EstoqueDeProdutos2\EstoqueDeProdutos2\obj\Debug\netcoreapp3.1\EstoqueDeProdutos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\EstoqueDeProdutos2\EstoqueDeProdutos2\obj\Debug\netcoreapp3.1\EstoqueDeProdutos2.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\EstoqueDeProdutos2\EstoqueDeProdutos2\obj\Debug\netcoreapp3.1\EstoqueDeProdutos2.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\EstoqueDeProdutos2\EstoqueDeProdutos2\obj\Debug\netcoreapp3.1\EstoqueDeProdutos2.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\EstoqueDeProdutos2\EstoqueDeProdutos2\obj\Debug\netcoreapp3.1\EstoqueDeProdutos2.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\EstoqueDeProdutos2\EstoqueDeProdutos2\obj\Debug\netcoreapp3.1\EstoqueDeProdutos2.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\EstoqueDeProdutos2\EstoqueDeProdutos2\obj\Debug\netcoreapp3.1\EstoqueDeProdutos2.genruntimeconfig.cache

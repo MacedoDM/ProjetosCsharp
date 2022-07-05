@@ -1,0 +1,4 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeImposto\CalculoDeImposto\obj\Debug\netcoreapp3.1\CalculoDeImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeImposto\CalculoDeImposto\obj\Debug\netcoreapp3.1\CalculoDeImposto.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeImposto\CalculoDeImposto\obj\Debug\netcoreapp3.1\CalculoDeImposto.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeImposto\CalculoDeImposto\obj\Debug\netcoreapp3.1\CalculoDeImposto.csproj.CoreCompileInputs.cache

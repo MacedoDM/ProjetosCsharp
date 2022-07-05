@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\bin\Debug\netcoreapp3.1\MediaDeAlturasVet.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\bin\Debug\netcoreapp3.1\MediaDeAlturasVet.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\bin\Debug\netcoreapp3.1\MediaDeAlturasVet.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\bin\Debug\netcoreapp3.1\MediaDeAlturasVet.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\bin\Debug\netcoreapp3.1\MediaDeAlturasVet.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\bin\Debug\netcoreapp3.1\MediaDeAlturasVet.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\obj\Debug\netcoreapp3.1\MediaDeAlturasVet.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\obj\Debug\netcoreapp3.1\MediaDeAlturasVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\obj\Debug\netcoreapp3.1\MediaDeAlturasVet.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\obj\Debug\netcoreapp3.1\MediaDeAlturasVet.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\obj\Debug\netcoreapp3.1\MediaDeAlturasVet.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\obj\Debug\netcoreapp3.1\MediaDeAlturasVet.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\obj\Debug\netcoreapp3.1\MediaDeAlturasVet.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeAlturasVet\MediaDeAlturasVet\obj\Debug\netcoreapp3.1\MediaDeAlturasVet.genruntimeconfig.cache

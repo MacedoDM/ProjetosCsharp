@@ -1,0 +1,13 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\QualOMaiorNumero\QualOMaiorNumero\bin\Debug\netcoreapp3.1\QualOMaiorNumero.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\QualOMaiorNumero\QualOMaiorNumero\bin\Debug\netcoreapp3.1\QualOMaiorNumero.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\QualOMaiorNumero\QualOMaiorNumero\bin\Debug\netcoreapp3.1\QualOMaiorNumero.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\QualOMaiorNumero\QualOMaiorNumero\bin\Debug\netcoreapp3.1\QualOMaiorNumero.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\QualOMaiorNumero\QualOMaiorNumero\bin\Debug\netcoreapp3.1\QualOMaiorNumero.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\QualOMaiorNumero\QualOMaiorNumero\bin\Debug\netcoreapp3.1\QualOMaiorNumero.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\QualOMaiorNumero\QualOMaiorNumero\obj\Debug\netcoreapp3.1\QualOMaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\QualOMaiorNumero\QualOMaiorNumero\obj\Debug\netcoreapp3.1\QualOMaiorNumero.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\QualOMaiorNumero\QualOMaiorNumero\obj\Debug\netcoreapp3.1\QualOMaiorNumero.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\QualOMaiorNumero\QualOMaiorNumero\obj\Debug\netcoreapp3.1\QualOMaiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\QualOMaiorNumero\QualOMaiorNumero\obj\Debug\netcoreapp3.1\QualOMaiorNumero.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\QualOMaiorNumero\QualOMaiorNumero\obj\Debug\netcoreapp3.1\QualOMaiorNumero.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\QualOMaiorNumero\QualOMaiorNumero\obj\Debug\netcoreapp3.1\QualOMaiorNumero.genruntimeconfig.cache

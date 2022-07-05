@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\bin\Debug\netcoreapp3.1\DigitarSenhaCorreta.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\bin\Debug\netcoreapp3.1\DigitarSenhaCorreta.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\bin\Debug\netcoreapp3.1\DigitarSenhaCorreta.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\bin\Debug\netcoreapp3.1\DigitarSenhaCorreta.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\bin\Debug\netcoreapp3.1\DigitarSenhaCorreta.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\bin\Debug\netcoreapp3.1\DigitarSenhaCorreta.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\obj\Debug\netcoreapp3.1\DigitarSenhaCorreta.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\obj\Debug\netcoreapp3.1\DigitarSenhaCorreta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\obj\Debug\netcoreapp3.1\DigitarSenhaCorreta.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\obj\Debug\netcoreapp3.1\DigitarSenhaCorreta.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\obj\Debug\netcoreapp3.1\DigitarSenhaCorreta.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\obj\Debug\netcoreapp3.1\DigitarSenhaCorreta.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\obj\Debug\netcoreapp3.1\DigitarSenhaCorreta.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\DigitarSenhaCorreta\DigitarSenhaCorreta\obj\Debug\netcoreapp3.1\DigitarSenhaCorreta.genruntimeconfig.cache

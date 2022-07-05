@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\bin\Debug\netcoreapp3.1\MediaDeSalarios.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\bin\Debug\netcoreapp3.1\MediaDeSalarios.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\bin\Debug\netcoreapp3.1\MediaDeSalarios.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\bin\Debug\netcoreapp3.1\MediaDeSalarios.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\bin\Debug\netcoreapp3.1\MediaDeSalarios.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\bin\Debug\netcoreapp3.1\MediaDeSalarios.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\obj\Debug\netcoreapp3.1\MediaDeSalarios.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\obj\Debug\netcoreapp3.1\MediaDeSalarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\obj\Debug\netcoreapp3.1\MediaDeSalarios.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\obj\Debug\netcoreapp3.1\MediaDeSalarios.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\obj\Debug\netcoreapp3.1\MediaDeSalarios.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\obj\Debug\netcoreapp3.1\MediaDeSalarios.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\obj\Debug\netcoreapp3.1\MediaDeSalarios.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaDeSalarios\MediaDeSalarios\obj\Debug\netcoreapp3.1\MediaDeSalarios.genruntimeconfig.cache

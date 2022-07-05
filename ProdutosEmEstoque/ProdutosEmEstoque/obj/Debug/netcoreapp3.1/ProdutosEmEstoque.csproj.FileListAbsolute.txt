@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\netcoreapp3.1\ProdutosEmEstoque.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\netcoreapp3.1\ProdutosEmEstoque.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\netcoreapp3.1\ProdutosEmEstoque.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\netcoreapp3.1\ProdutosEmEstoque.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\netcoreapp3.1\ProdutosEmEstoque.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\netcoreapp3.1\ProdutosEmEstoque.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\netcoreapp3.1\ProdutosEmEstoque.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\netcoreapp3.1\ProdutosEmEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\netcoreapp3.1\ProdutosEmEstoque.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\netcoreapp3.1\ProdutosEmEstoque.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\netcoreapp3.1\ProdutosEmEstoque.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\netcoreapp3.1\ProdutosEmEstoque.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\netcoreapp3.1\ProdutosEmEstoque.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\netcoreapp3.1\ProdutosEmEstoque.genruntimeconfig.cache

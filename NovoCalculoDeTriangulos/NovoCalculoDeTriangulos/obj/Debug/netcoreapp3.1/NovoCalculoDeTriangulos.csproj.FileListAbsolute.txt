@@ -1,0 +1,13 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NovoCalculoDeTriangulos\NovoCalculoDeTriangulos\obj\Debug\netcoreapp3.1\NovoCalculoDeTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NovoCalculoDeTriangulos\NovoCalculoDeTriangulos\obj\Debug\netcoreapp3.1\NovoCalculoDeTriangulos.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NovoCalculoDeTriangulos\NovoCalculoDeTriangulos\obj\Debug\netcoreapp3.1\NovoCalculoDeTriangulos.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NovoCalculoDeTriangulos\NovoCalculoDeTriangulos\obj\Debug\netcoreapp3.1\NovoCalculoDeTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NovoCalculoDeTriangulos\NovoCalculoDeTriangulos\bin\Debug\netcoreapp3.1\NovoCalculoDeTriangulos.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NovoCalculoDeTriangulos\NovoCalculoDeTriangulos\bin\Debug\netcoreapp3.1\NovoCalculoDeTriangulos.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NovoCalculoDeTriangulos\NovoCalculoDeTriangulos\bin\Debug\netcoreapp3.1\NovoCalculoDeTriangulos.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NovoCalculoDeTriangulos\NovoCalculoDeTriangulos\bin\Debug\netcoreapp3.1\NovoCalculoDeTriangulos.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NovoCalculoDeTriangulos\NovoCalculoDeTriangulos\bin\Debug\netcoreapp3.1\NovoCalculoDeTriangulos.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NovoCalculoDeTriangulos\NovoCalculoDeTriangulos\bin\Debug\netcoreapp3.1\NovoCalculoDeTriangulos.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NovoCalculoDeTriangulos\NovoCalculoDeTriangulos\obj\Debug\netcoreapp3.1\NovoCalculoDeTriangulos.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NovoCalculoDeTriangulos\NovoCalculoDeTriangulos\obj\Debug\netcoreapp3.1\NovoCalculoDeTriangulos.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NovoCalculoDeTriangulos\NovoCalculoDeTriangulos\obj\Debug\netcoreapp3.1\NovoCalculoDeTriangulos.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\obj\Debug\netcoreapp3.1\CompraDeDolares.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\obj\Debug\netcoreapp3.1\CompraDeDolares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\obj\Debug\netcoreapp3.1\CompraDeDolares.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\obj\Debug\netcoreapp3.1\CompraDeDolares.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\obj\Debug\netcoreapp3.1\CompraDeDolares.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\bin\Debug\netcoreapp3.1\CompraDeDolares.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\bin\Debug\netcoreapp3.1\CompraDeDolares.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\bin\Debug\netcoreapp3.1\CompraDeDolares.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\bin\Debug\netcoreapp3.1\CompraDeDolares.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\bin\Debug\netcoreapp3.1\CompraDeDolares.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\bin\Debug\netcoreapp3.1\CompraDeDolares.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\obj\Debug\netcoreapp3.1\CompraDeDolares.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\obj\Debug\netcoreapp3.1\CompraDeDolares.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CompraDeDolares\CompraDeDolares\obj\Debug\netcoreapp3.1\CompraDeDolares.genruntimeconfig.cache

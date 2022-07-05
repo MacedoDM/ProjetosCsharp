@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\bin\Debug\netcoreapp3.1\CalculoDeEsfera.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\bin\Debug\netcoreapp3.1\CalculoDeEsfera.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\bin\Debug\netcoreapp3.1\CalculoDeEsfera.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\bin\Debug\netcoreapp3.1\CalculoDeEsfera.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\bin\Debug\netcoreapp3.1\CalculoDeEsfera.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\bin\Debug\netcoreapp3.1\CalculoDeEsfera.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\obj\Debug\netcoreapp3.1\CalculoDeEsfera.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\obj\Debug\netcoreapp3.1\CalculoDeEsfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\obj\Debug\netcoreapp3.1\CalculoDeEsfera.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\obj\Debug\netcoreapp3.1\CalculoDeEsfera.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\obj\Debug\netcoreapp3.1\CalculoDeEsfera.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\obj\Debug\netcoreapp3.1\CalculoDeEsfera.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\obj\Debug\netcoreapp3.1\CalculoDeEsfera.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CalculoDeEsfera\CalculoDeEsfera\obj\Debug\netcoreapp3.1\CalculoDeEsfera.genruntimeconfig.cache

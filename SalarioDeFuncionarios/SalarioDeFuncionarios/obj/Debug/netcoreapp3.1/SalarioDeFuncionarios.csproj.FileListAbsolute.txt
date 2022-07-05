@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\bin\Debug\netcoreapp3.1\SalarioDeFuncionarios.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\bin\Debug\netcoreapp3.1\SalarioDeFuncionarios.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\bin\Debug\netcoreapp3.1\SalarioDeFuncionarios.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\bin\Debug\netcoreapp3.1\SalarioDeFuncionarios.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\bin\Debug\netcoreapp3.1\SalarioDeFuncionarios.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\bin\Debug\netcoreapp3.1\SalarioDeFuncionarios.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\obj\Debug\netcoreapp3.1\SalarioDeFuncionarios.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\obj\Debug\netcoreapp3.1\SalarioDeFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\obj\Debug\netcoreapp3.1\SalarioDeFuncionarios.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\obj\Debug\netcoreapp3.1\SalarioDeFuncionarios.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\obj\Debug\netcoreapp3.1\SalarioDeFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\obj\Debug\netcoreapp3.1\SalarioDeFuncionarios.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\obj\Debug\netcoreapp3.1\SalarioDeFuncionarios.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\SalarioDeFuncionarios\SalarioDeFuncionarios\obj\Debug\netcoreapp3.1\SalarioDeFuncionarios.genruntimeconfig.cache

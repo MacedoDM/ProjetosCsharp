@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\bin\Debug\netcoreapp3.1\PostoDeCombustivel.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\bin\Debug\netcoreapp3.1\PostoDeCombustivel.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\bin\Debug\netcoreapp3.1\PostoDeCombustivel.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\bin\Debug\netcoreapp3.1\PostoDeCombustivel.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\bin\Debug\netcoreapp3.1\PostoDeCombustivel.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\bin\Debug\netcoreapp3.1\PostoDeCombustivel.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\netcoreapp3.1\PostoDeCombustivel.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\netcoreapp3.1\PostoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\netcoreapp3.1\PostoDeCombustivel.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\netcoreapp3.1\PostoDeCombustivel.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\netcoreapp3.1\PostoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\netcoreapp3.1\PostoDeCombustivel.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\netcoreapp3.1\PostoDeCombustivel.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\netcoreapp3.1\PostoDeCombustivel.genruntimeconfig.cache

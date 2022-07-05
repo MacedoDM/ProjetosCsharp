@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\bin\Debug\netcoreapp3.1\NumerosImpares.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\bin\Debug\netcoreapp3.1\NumerosImpares.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\bin\Debug\netcoreapp3.1\NumerosImpares.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\bin\Debug\netcoreapp3.1\NumerosImpares.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\bin\Debug\netcoreapp3.1\NumerosImpares.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\bin\Debug\netcoreapp3.1\NumerosImpares.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp3.1\NumerosImpares.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp3.1\NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp3.1\NumerosImpares.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp3.1\NumerosImpares.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp3.1\NumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp3.1\NumerosImpares.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp3.1\NumerosImpares.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp3.1\NumerosImpares.genruntimeconfig.cache

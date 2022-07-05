@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\bin\Debug\netcoreapp3.1\MediaComPesos.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\bin\Debug\netcoreapp3.1\MediaComPesos.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\bin\Debug\netcoreapp3.1\MediaComPesos.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\bin\Debug\netcoreapp3.1\MediaComPesos.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\bin\Debug\netcoreapp3.1\MediaComPesos.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\bin\Debug\netcoreapp3.1\MediaComPesos.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\obj\Debug\netcoreapp3.1\MediaComPesos.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\obj\Debug\netcoreapp3.1\MediaComPesos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\obj\Debug\netcoreapp3.1\MediaComPesos.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\obj\Debug\netcoreapp3.1\MediaComPesos.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\obj\Debug\netcoreapp3.1\MediaComPesos.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\obj\Debug\netcoreapp3.1\MediaComPesos.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\obj\Debug\netcoreapp3.1\MediaComPesos.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\MediaComPesos\MediaComPesos\obj\Debug\netcoreapp3.1\MediaComPesos.genruntimeconfig.cache

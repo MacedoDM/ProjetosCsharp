@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\bin\Debug\netcoreapp3.1\CoordenadaQuadrante.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\bin\Debug\netcoreapp3.1\CoordenadaQuadrante.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\bin\Debug\netcoreapp3.1\CoordenadaQuadrante.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\bin\Debug\netcoreapp3.1\CoordenadaQuadrante.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\bin\Debug\netcoreapp3.1\CoordenadaQuadrante.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\bin\Debug\netcoreapp3.1\CoordenadaQuadrante.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\obj\Debug\netcoreapp3.1\CoordenadaQuadrante.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\obj\Debug\netcoreapp3.1\CoordenadaQuadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\obj\Debug\netcoreapp3.1\CoordenadaQuadrante.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\obj\Debug\netcoreapp3.1\CoordenadaQuadrante.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\obj\Debug\netcoreapp3.1\CoordenadaQuadrante.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\obj\Debug\netcoreapp3.1\CoordenadaQuadrante.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\obj\Debug\netcoreapp3.1\CoordenadaQuadrante.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\CoordenadaQuadrante\CoordenadaQuadrante\obj\Debug\netcoreapp3.1\CoordenadaQuadrante.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaDeAlturasVet", "MediaDeAlturasVet\MediaDeAlturasVet.csproj", "{A6B973AC-C93B-4F00-82B1-43146FAE387E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B973AC-C93B-4F00-82B1-43146FAE387E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B973AC-C93B-4F00-82B1-43146FAE387E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B973AC-C93B-4F00-82B1-43146FAE387E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B973AC-C93B-4F00-82B1-43146FAE387E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A2A973D-A34C-474F-A400-314DA38D0D5A}
+	EndGlobalSection
+EndGlobal

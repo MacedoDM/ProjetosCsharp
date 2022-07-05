@@ -1,0 +1,4 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: RaizQuadrada, Configuração: Debug Any CPU ------
+1>RaizQuadrada -> C:\Users\MARCOS\source\repos\Projetos de Csharp\RaizQuadrada\RaizQuadrada\bin\Debug\netcoreapp3.1\RaizQuadrada.dll
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
