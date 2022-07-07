@@ -1,0 +1,14 @@
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.exe
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.deps.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.dev.json
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csproj.AssemblyReference.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfoInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfo.cs
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.dll
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.pdb
+C:\Users\MARCOS\source\repos\Projetos de Csharp\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.genruntimeconfig.cache
